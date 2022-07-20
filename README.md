@@ -2,8 +2,8 @@
  <img src="https://www.hays.co.uk/documents/14947236/18198294/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/6baea6c5-943e-d31d-1e17-67c5e54c8bc8?t=1617916807268"/>
 </h1>
 
-<h1 align="center">Hey everyone 👋, I'm A KIRAN RAJ</h1>
-<h3 align="center">Im passionate about Learning and implementing DATA ANALYSIS and DATA SCIENCE</h3>
+<h1 align="center"> Hey everyone 👋, I'm A KIRAN RAJ</h1>
+<h3 align="center"> Im passionate about Learning and implementing DATA ANALYSIS and DATA SCIENCE</h3>
 
 <img align="center" src="https://stephbrowneblog.files.wordpress.com/2020/10/e58674891220df8a97807e636b99cd6c.gif"/>
 
