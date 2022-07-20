@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone 👋, I'm A KIRAN RAJ</h1>
 <h3 align="center">Im passionate about Learning and implementing DATA ANALYSIS and DATA SCIENCE</h3>
 
-<img align="left" src="https://stephbrowneblog.files.wordpress.com/2020/10/e58674891220df8a97807e636b99cd6c.gif"/>
+<img align="center" src="https://stephbrowneblog.files.wordpress.com/2020/10/e58674891220df8a97807e636b99cd6c.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiranraj1995&label=Profile%20views&color=0e75b6&style=flat" alt="akiranraj1995" /> </p>
