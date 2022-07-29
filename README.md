@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center"> Hey everyone 👋, I'm A KIRAN RAJ</h1>
-<h3 align="center"> Im passionate about Learning and implementing DATA ANALYSIS and DATA SCIENCE</h3>
+<h3 align="center"> I'm passionate about Learning and implementing DATA ANALYSIS and DATA SCIENCE</h3>
 
 <img align="center" src="https://stephbrowneblog.files.wordpress.com/2020/10/e58674891220df8a97807e636b99cd6c.gif"/>
 
