@@ -22,6 +22,15 @@
 
 - ⚡ Fun fact **I like to learn about new Technologies and applying it in Real World, Listen to Songs, Sports .**
 
+-   Certifications for participation in Online Masterclasses
+
+     **Hands on Beginners Workshop on Tableu: https://moonshot.scaler.com/s/sl/YFKlGyI100 .** 
+     
+     **SQL for Data Analytics : https://moonshot.scaler.com/s/sl/4zo86o8Gix .**
+     
+     **Chatbot using A.I and M.L : https://moonshot.scaler.com/s/sl/rNjHOFyenm .**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/a-kiran-raj-30a498b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a-kiran-raj-30a498b8/" height="30" width="40" /></a>
