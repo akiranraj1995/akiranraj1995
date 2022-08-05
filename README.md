@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/akiranraj1995**
 
-- 💬 Ask me about **Technology related stuffs**
+- 💬 Ask me about **Technology related items and trends**
 
 - 📫 How to reach me **ambal.kiranraj@gmail.com**
 
