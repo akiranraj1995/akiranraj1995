@@ -29,6 +29,12 @@
      **SQL for Data Analytics : https://moonshot.scaler.com/s/sl/4zo86o8Gix .**
      
      **Chatbot using A.I and M.L : https://moonshot.scaler.com/s/sl/rNjHOFyenm .**
+     
+- Personal projects Deployed on Cloud Links:-
+
+    **Stackoverflow Survey Software Developers Salary Prediction Webapp : https://akiranraj1995-stackoverflows-devel-salary-prediction-app-37pj8k.streamlitapp.com/.**
+    
+    **Food Restaurants Location predictor Webapp :  https://restaurant-location-app.herokuapp.com/.**
 
 
 <h3 align="left">Connect with me:</h3>
