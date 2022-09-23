@@ -30,9 +30,9 @@
      
      **Chatbot using A.I and M.L : https://moonshot.scaler.com/s/sl/rNjHOFyenm .**
      
--   Certifications from IBM SkillsBuild
+-   Certification from IBM SkillsBuild
 
-    **Data Analysis Fundamentals : https://skills.yourlearning.ibm.com/certificate/ILB-NKWWYDVYQEDQ1AE5 .**
+    **IBM Data Analysis Fundamentals : https://skills.yourlearning.ibm.com/certificate/ILB-NKWWYDVYQEDQ1AE5 .**
      
 - Personal projects Deployed on Cloud Links:-
 
