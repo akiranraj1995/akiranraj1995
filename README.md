@@ -43,6 +43,8 @@
     **Stackoverflow Survey Software Developers Salary Prediction Webapp : https://akiranraj1995-stackoverflows-devel-salary-prediction-app-37pj8k.streamlitapp.com/.**
     
     **Food Restaurants Location predictor Webapp :  https://restaurant-location-app.herokuapp.com/.**
+    
+    **PowerBI - Product Sales Report DashBoard : https://drive.google.com/file/d/1zrU1AjkGwnBsqUcjhGwfbRufett0tDeU/view?usp=share_link .**
 
 
 <h3 align="left">Connect with me:</h3>
