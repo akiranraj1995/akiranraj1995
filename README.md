@@ -33,6 +33,10 @@
 -   Certification from IBM SkillsBuild
 
     **IBM Data Analysis Fundamentals : https://skills.yourlearning.ibm.com/certificate/ILB-NKWWYDVYQEDQ1AE5 .**
+    
+-   Certificate of Completion from SkillNation
+    
+    **Workshop on Building Interactive Dashboard : https://drive.google.com/file/d/1WPoUlORe4ObeBjbXZSzU17_7kadhZyrj/view?usp=sharing .**
      
 - Personal projects Deployed on Cloud Links:-
 
