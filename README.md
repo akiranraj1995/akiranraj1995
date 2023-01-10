@@ -22,13 +22,9 @@
 
 - ⚡ Fun fact **I like to learn about new Technologies and applying it in Real World, Listen to Songs, Sports .**
 
--   Certifications for participation in Online Masterclasses
+-   Certification from MICROSOFT
 
-     **Hands on Beginners Workshop on Tableu: https://moonshot.scaler.com/s/sl/YFKlGyI100 .** 
-     
-     **SQL for Data Analytics : https://moonshot.scaler.com/s/sl/4zo86o8Gix .**
-     
-     **Chatbot using A.I and M.L : https://moonshot.scaler.com/s/sl/rNjHOFyenm .**
+     **Microsoft Certified Azure A.I Fundamentals:  https://www.credly.com/badges/5e6f9254-75f0-47c4-bbd0-105c2a4f548c/linked_in_profile.** 
      
 -   Certification from IBM SkillsBuild
 
@@ -42,7 +38,7 @@
 
     **Stackoverflow Survey Software Developers Salary Prediction Webapp : https://akiranraj1995-stackoverflows-devel-salary-prediction-app-37pj8k.streamlitapp.com/.**
     
-    **Food Restaurants Location predictor Webapp :  https://restaurant-location-app.herokuapp.com/.**
+    **Restaurant Store Location Predictor Webapp : https://akiranraj1995-restaurant-store-location-predictor-app-lov8ow.streamlit.app/.**
     
     **PowerBI - Product Sales Report DashBoard : https://drive.google.com/file/d/1zrU1AjkGwnBsqUcjhGwfbRufett0tDeU/view?usp=share_link .**
 
