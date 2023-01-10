@@ -10,17 +10,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiranraj1995&label=Profile%20views&color=0e75b6&style=flat" alt="akiranraj1995" /> </p>
 
-- 🌱 I’m currently learning **and Upgrading my skills and doing my own Research projects**
+- 🌱 I’m currently looking for **Data Analyst and Junior Data Scientist Roles**
 
 - 👨‍💻 All of my projects are available at **https://github.com/akiranraj1995**
 
-- 💬 Ask me about **Technology related items and trends**
+- 💬 Ask me about **Latest Technology and Trends**
 
 - 📫 How to reach me **ambal.kiranraj@gmail.com**
 
 - 📄 Know about my experiences **I had the opportunity to work in a Startup and have done multiple Internships.**
 
-- ⚡ Fun fact **I like to learn about new Technologies and applying it in Real World, Listen to Songs, Sports .**
+- ⚡ Fun fact **I like to learn about new technologies and applying it in Real World, Listening Music, Sports .**
 
 -   Certification from MICROSOFT
 
