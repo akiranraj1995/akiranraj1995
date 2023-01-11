@@ -53,7 +53,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiranraj1995&show_icons=true&locale=en&layout=compact" alt="akiranraj1995" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiranraj1995&show_icons=true&locale=en" alt="akiranraj1995" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akiranraj1995&show_icons=true&locale=en" alt="akiranraj1995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akiranraj1995&" alt="akiranraj1995" /></p>
 
