@@ -34,7 +34,7 @@
     
     **Workshop on Building Interactive Dashboard : https://drive.google.com/file/d/1WPoUlORe4ObeBjbXZSzU17_7kadhZyrj/view?usp=sharing .**
      
-- Personal projects Deployed on Cloud Links:-
+- Projects Deployed on Cloud Links:-
 
     **Stackoverflow Survey Software Developers Salary Prediction Webapp : https://akiranraj1995-stackoverflows-devel-salary-prediction-app-37pj8k.streamlitapp.com/.**
     
