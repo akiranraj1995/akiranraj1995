@@ -38,6 +38,8 @@
 
     **Stackoverflow Survey Software Developers Salary Prediction Webapp : https://akiranraj1995-stackoverflows-devel-salary-prediction-app-37pj8k.streamlitapp.com/.**
     
+    **Bank Loan Approval Predictor Machine Learning Webapp : https://akiranraj1995-bank-loanapproval-predictor-mlwebapp-app-0jl1sd.streamlit.app/.**
+    
     **Restaurant Store Location Predictor Webapp : https://akiranraj1995-restaurant-store-location-predictor-app-lov8ow.streamlit.app/.**
     
     **PowerBI - Product Sales Report DashBoard : https://drive.google.com/file/d/1zrU1AjkGwnBsqUcjhGwfbRufett0tDeU/view?usp=share_link .**
