@@ -44,9 +44,9 @@
     
     **PowerBI - Product Sales Report DashBoard : https://drive.google.com/file/d/1zrU1AjkGwnBsqUcjhGwfbRufett0tDeU/view?usp=share_link .**
     
-    **PowerBI - Global Super Store Dashboard : https://drive.google.com/file/d/1Clf7G4tLwKmCqtIXPGIQz9svoQ1Hem4Z/view?usp=share_link. **
+    **PowerBI - Global Super Store Dashboard : https://drive.google.com/file/d/1Clf7G4tLwKmCqtIXPGIQz9svoQ1Hem4Z/view?usp=share_link.**
     
-    **PowerBI - H.R Human Resource Dashboard : https://drive.google.com/file/d/1uFnC__1zq3Zl39JWV4_l88odARBOBX9E/view?usp=share_link. **
+    **PowerBI - H.R Human Resource Dashboard : https://drive.google.com/file/d/1uFnC__1zq3Zl39JWV4_l88odARBOBX9E/view?usp=share_link.**
 
 
 <h3 align="left">Connect with me:</h3>
